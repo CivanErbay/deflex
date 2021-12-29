@@ -1,14 +1,14 @@
 {
-    "name": "PlayerControls",
+    "name": "PlayerInput",
     "maps": [
         {
-            "name": "Gameplay",
-            "id": "e59340d6-cfaf-43e2-a9f3-5435cb5ae143",
+            "name": "Player",
+            "id": "7095df3f-eefa-43bb-b61e-47a77a702e61",
             "actions": [
                 {
                     "name": "Move",
                     "type": "Value",
-                    "id": "2826ecd2-a2a6-45a4-98c7-f2bd80ef42bd",
+                    "id": "01402a36-e1c5-4501-8285-7922575b7143",
                     "expectedControlType": "Stick",
                     "processors": "",
                     "interactions": "",
@@ -18,7 +18,7 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "ae8422d8-e391-49d1-bd92-b09818ae3682",
+                    "id": "6adc366a-41dc-4863-b8a4-ba4db53eaea8",
                     "path": "<Gamepad>/leftStick",
                     "interactions": "",
                     "processors": "",
